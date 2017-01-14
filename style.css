@@ -70,8 +70,30 @@ main {
   width: 100%
 }
 
+header h1 {
+  margin-bottom: 0em;
+}
+
 #choco-pizza {
   width:inherit;
+}
+
+#posted {
+  color: gray;
+  font-size: 10px;
+  margin: 0em;
+}
+
+#print-text {
+  float: right;
+  color: gray;
+  font-size: 10px;
+  display: inline;
+  margin: 0em;  
+}
+
+#print {
+  float: right;
 }
 
 .directions p {
